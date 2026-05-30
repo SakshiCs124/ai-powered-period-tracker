@@ -1,6 +1,12 @@
 # AI-Powered Period Tracker 🌸
 
-A beautiful, modern web application for tracking menstrual cycles with AI-powered predictions, mood analysis, and wellness insights.
+An AI-powered women's health platform that predicts menstrual cycles using LSTM deep learning, provides mood analysis, wellness tracking, personalized insights, and an intelligent health chatbot.
+
+## Author
+
+Sakshi 
+Bachelor of Engineering – Computer Science
+Alva's Institute of Engineering and Technology
 
 ## Features
 
